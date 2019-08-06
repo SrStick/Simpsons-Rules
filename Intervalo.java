@@ -19,7 +19,7 @@ abstract class Intervalo {
   }
   
   protected static double getF(double x) {
-	  return Math.exp(x);
+	  return Math.exp(x); // put your expression here.
   }
 
   protected void preecherPts() {
