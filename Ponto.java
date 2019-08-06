@@ -9,7 +9,7 @@ class Ponto {
   }
 
   double getX() {
-	  return x;
+    return x;
   }
   
   double getFx() {
