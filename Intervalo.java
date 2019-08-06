@@ -40,18 +40,7 @@ abstract class Intervalo {
     
     return mat;
   }
-  
-//  public double getBigDerivada() {
-//	  double big = Aux.getDerivadaIV(inicio);
-//	  for(int i = 1; i < subs.length; i++) {
-//		  double aux = Aux.getDerivadaIV(subs[i].getX());
-//		  if(aux > big) {
-//			  big = aux;
-//		  }
-//	  }
-//	  return big;
-//  }
-  
+
   public int getN() {
 	  return n;
   }
